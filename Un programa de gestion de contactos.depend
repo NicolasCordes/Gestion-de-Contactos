@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692396112 source:c:\users\nicol\onedrive\documentos\programacion y laboratorio\un programa de gestion de contactos\main.c
+	<stdio.h>
+	<stdlib.h>
+
